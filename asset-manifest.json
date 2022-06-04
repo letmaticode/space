@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/space/static/css/main.ec637825.css",
+    "main.js": "/space/static/js/main.a57883f1.js",
+    "static/media/background-home-desktop.jpg": "/space/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/background-destination-desktop.jpg": "/space/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/background-home-tablet.jpg": "/space/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
+    "static/media/background-crew-desktop.jpg": "/space/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
+    "static/media/background-destination-tablet.jpg": "/space/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
+    "static/media/background-technology-desktop.jpg": "/space/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
+    "static/media/background-crew-tablet.jpg": "/space/static/media/background-crew-tablet.16d51cf61e98ce45eb61.jpg",
+    "static/media/background-home-mobile.jpg": "/space/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
+    "static/media/background-technology-tablet.jpg": "/space/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
+    "static/media/background-destination-mobile.jpg": "/space/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
+    "static/media/explore.svg": "/space/static/media/explore.19c1af21992da4567fe4435206102fed.svg",
+    "index.html": "/space/index.html",
+    "static/media/logo.svg": "/space/static/media/logo.3f9403a774b726b2ec9a245b20c59373.svg",
+    "static/media/icon-close.svg": "/space/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
+    "static/media/icon-hamburger.svg": "/space/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
+    "main.ec637825.css.map": "/space/static/css/main.ec637825.css.map",
+    "main.a57883f1.js.map": "/space/static/js/main.a57883f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec637825.css",
+    "static/js/main.a57883f1.js"
+  ]
+}
