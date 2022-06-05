@@ -40,16 +40,16 @@ export default function Destination() {
                     <nav className='w-2/3 py-8 md:w-[285.5px]'>
                         <ul className='flex justify-between h-10 font-barlow-condensed text-xl text-[#D0D6F9]'>
                             <li className={space.name == 'Moon' ? 'border-b-4' : 'hover:border-b-4 hover:border-opacity-50 hover:border-white'}>
-                                <Link to='/destination/moon' className='tracking-widest'>MOON</Link>
+                                <Link to='/space/destination/moon' className='tracking-widest'>MOON</Link>
                             </li>
                             <li className={space.name == 'Mars' ? 'border-b-4' : 'hover:border-b-4 hover:border-opacity-50 hover:border-white'}>
-                                <Link to='/destination/mars' className='tracking-widest'>MARS</Link>
+                                <Link to='/space/destination/mars' className='tracking-widest'>MARS</Link>
                             </li>
                             <li className={space.name == 'Europa' ? 'border-b-4' : 'hover:border-b-4 hover:border-opacity-50 hover:border-white'}>
-                                <Link to='/destination/europa' className='tracking-widest'>EUROPA</Link>
+                                <Link to='/space/destination/europa' className='tracking-widest'>EUROPA</Link>
                             </li>
                             <li className={space.name == 'Titan' ? 'border-b-4' : 'hover:border-b-4 hover:border-opacity-50 hover:border-white'}>
-                                <Link to='/destination/titan' className='tracking-widest'>TITAN</Link>
+                                <Link to='/space/destination/titan' className='tracking-widest'>TITAN</Link>
                             </li>
                         </ul>
                     </nav>

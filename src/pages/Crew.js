@@ -46,22 +46,22 @@ export default function Crew() {
               <li>
                 <Link className={id.includes('douglas') ?
                   'w-[15px] h-[15px] block bg-white rounded-full' :
-                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/crew/douglas'></Link>
+                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/space/crew/douglas'></Link>
               </li>
               <li>
                 <Link className={id.includes('mark') ?
                   'w-[15px] h-[15px] block bg-white rounded-full' :
-                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/crew/mark'></Link>
+                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/space/crew/mark'></Link>
               </li>
               <li>
                 <Link className={id.includes('victor') ?
                   'w-[15px] h-[15px] block bg-white rounded-full' :
-                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/crew/victor'></Link>
+                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/space/crew/victor'></Link>
               </li>
               <li>
                 <Link className={id.includes('anousheh') ?
                   'w-[15px] h-[15px] block bg-white rounded-full' :
-                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/crew/anousheh'></Link>
+                  'w-[15px] h-[15px] block bg-white opacity-[0.17] rounded-full hover:opacity-50'} to='/space/crew/anousheh'></Link>
               </li>
             </ul>
           </nav>

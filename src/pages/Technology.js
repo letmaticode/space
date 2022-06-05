@@ -61,17 +61,17 @@ export default function Technology() {
             <li className={id.includes('launch') ?
               'md:w-[60px] md:h-[60px] mx-2 font-bellefair text-3xl w-10 h-10 rounded-full flex justify-center items-center border-[1px] bg-white text-black lg:h-20 lg:w-20' :
               'md:w-[60px] md:h-[60px] mx-2 font-bellefair text-3xl w-10 h-10 rounded-full flex justify-center items-center border-[1px] border-white border-opacity-50 hover:border-opacity-100 lg:h-20 lg:w-20'}>
-              <Link className='p-8' to='/technology/launch'>1</Link>
+              <Link className='p-8' to='/space/technology/launch'>1</Link>
             </li>
             <li className={id === 'spaceport' ?
               'md:w-[60px] md:h-[60px] mx-2 font-bellefair text-3xl w-10 h-10 rounded-full flex justify-center items-center border-[1px] bg-white text-black lg:h-20 lg:w-20' :
               'md:w-[60px] md:h-[60px] mx-2 font-bellefair text-3xl w-10 h-10 rounded-full flex justify-center items-center border-[1px] border-white border-opacity-50 hover:border-opacity-100 lg:h-20 lg:w-20'}>
-              <Link className='p-8' to='/technology/spaceport'>2</Link>
+              <Link className='p-8' to='/space/technology/spaceport'>2</Link>
             </li>
             <li className={id == 'space' ?
               'md:w-[60px] md:h-[60px] mx-2 font-bellefair text-3xl w-10 h-10 rounded-full flex justify-center items-center border-[1px] bg-white text-black lg:h-20 lg:w-20' :
               'md:w-[60px] md:h-[60px] mx-2 font-bellefair text-3xl w-10 h-10 rounded-full flex justify-center items-center border-[1px] border-white border-opacity-50 hover:border-opacity-100 lg:h-20 lg:w-20'}>
-              <Link className='p-8' to='/technology/space'>3</Link>
+              <Link className='p-8' to='/space/technology/space'>3</Link>
             </li>
           </ul>
         </nav>
